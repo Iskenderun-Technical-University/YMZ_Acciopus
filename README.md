@@ -2,6 +2,9 @@
 ## _İş Başvuru ve Teklif Platformu_
 ------
 
+![status](https://github.com/Iskenderun-Technical-University/YMZ_Acciopus/blob/master/status.jpg?raw=true "status")
+
+-------
 
 
 
@@ -45,7 +48,7 @@ Bunlar proje başında kullanılmayı planlanan teknolojilerdir. Gelecek zamanla
 ----
 ## UML Diyagramı
 
-![UML](https://i.hizliresim.com/s5wwcr5.PNG "UML Diyagramı")
+![UML](https://github.com/Iskenderun-Technical-University/YMZ_Acciopus/blob/master/UML_Diagram.PNG?raw=true "UML Diyagramı")
 
 -----
 
