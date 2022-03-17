@@ -51,8 +51,8 @@ Bunlar proje başında kullanılmayı planlanan teknolojilerdir. Gelecek zamanla
 
 ## Projeyi Yapanlar
 
-- Muhammet Emin Özkan
-- Bleda Bilir
-- Ömer Doğan
+- [Muhammet Emin Özkan](https://github.com/eminozkan "eminozkan")
+- [Bleda Bilir](https://github.com/BledaBilir01 "bledabilir01")
+- [Ömer Doğan](https://github.com/qumer0 "omerdogan")
 
 -----
