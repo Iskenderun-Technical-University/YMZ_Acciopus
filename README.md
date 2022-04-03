@@ -6,6 +6,11 @@
 
 -------
 
+#### Proje Görev Dağılımı
+-------
+
+- Front End = Bleda Bilir
+- Database - Back End = Ömer Doğan & Muhammet Emin Özkan
 
 
 
