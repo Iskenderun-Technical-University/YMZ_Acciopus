@@ -12,6 +12,7 @@
 - Front End = Bleda Bilir
 - Database - Back End = Ömer Doğan & Muhammet Emin Özkan
 
+-------
 
 
 #### Acciopus, kayıtlı kullanıcıların iş arayabileceği ya da firmaların iş teklif edebileceği bir web platformudur.
