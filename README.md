@@ -14,6 +14,18 @@
 
 -------
 
+#### Yapılacaklar Listesi
+-------
+###### Bleda Bilir
+- [] Web Panel - Bleda Bilir
+
+###### Ömer Doğan
+- [] Database Tables - Ömer Doğan 
+
+###### Muhammet Emin Özkan
+- [] Database Back End Connections - Muhammet Emin Özkan
+
+--------
 
 #### Acciopus, kayıtlı kullanıcıların iş arayabileceği ya da firmaların iş teklif edebileceği bir web platformudur.
 
